@@ -1,2 +1,0 @@
-Garage Security System Code
-===========================
