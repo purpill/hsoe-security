@@ -3,7 +3,7 @@ hsoe-security = repository name
 1) Contains Pi Setup Information
 2) Contains To Do List for project
 3) Contains meeting notes
-====================================================
+----------------------------------------------------
 
 ======================
 Pi Configuration Notes
@@ -27,9 +27,8 @@ To Do List For Security Camera
 Meeting Notes for Monday Pi Setup
 =================================
 
-	1)	Connected Pi to computer. We used the computer 		as a router to connect to the Raspberry Pi 		over Wifi to obtain the Raspberry Pi’s IP 		address using the command ifconfig
-	2)	Set up Github and created a repository. My 		username is purpill and the repository name is 		shoe-security. If you are running a Mac you 	can download the Github app otherwise you 		can access github through the terminal if you 	  are using a unix based operating system. 
-		Im not sure about Windows since no one had one.
+	1)	Connected Pi to computer. We used the computer as a router to connect to the Raspberry Pi over Wifi to obtain the Raspberry Pi’s IP address using the command ifconfig
+	2)	Set up Github and created a repository. My username is purpill and the repository name is hsoe-security. If you are running a Mac you can download the Github app otherwise you can access github through the terminal if you are using a unix based operating system. Im not sure about Windows since no one had one.
 	
 
 =====================================
