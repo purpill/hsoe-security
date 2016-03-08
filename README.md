@@ -3,7 +3,6 @@ hsoe-security = repository name
 1) Contains Pi Setup Information
 2) Contains To Do List for project
 3) Contains meeting notes
-----------------------------------------------------
 
 ======================
 Pi Configuration Notes
